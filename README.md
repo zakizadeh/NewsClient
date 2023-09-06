@@ -18,7 +18,7 @@ It is after this step that API Gateway can direct the provided requests to the a
  Requests will be routed or sent to multiple services.
  
 
-Advantages and disadvantages of implementing API Gateway
+# Advantages and disadvantages of implementing API Gateway
 
 As expected, using the API Gateway pattern can have its own advantages and disadvantages. The most important advantage of using an API gateway is that the internal structure of the application will be encapsulated. Therefore, customers can easily interact with this gateway instead of requesting specific services. On the other hand, API Gateway will provide a specific API for each type of client, which will reduce the number of back-and-forth operations between the application and the client.
 
@@ -30,12 +30,12 @@ Therefore, it is very important to make the API Gateway update process as simple
 
 
  
-Important points of API Gateway implementation
+# Important points of API Gateway implementation
 
 Now that you have fully familiarized yourself with api gateway and realized the advantages and disadvantages of using it, it is time to point out the various design issues that you should consider when implementing this pattern:
 
 
-Performance and scalability:
+# Performance and scalability:
 
 
 You should know that today, a handful of companies operate at massive scales that need to handle billions of requests per day. However, for most existing applications, the performance and scalability of the API Gateway is critical. It would be quite natural to implement the api gateway on a platform that supports asynchronous and non-blocking I/O.
@@ -82,7 +82,7 @@ To solve this problem api gateway can return cached data if available. By restor
 
 
 
-Conclusion of api gateway implementation
+# Conclusion of api gateway implementation
 
 For most microservice-based applications, it makes sense to implement an api gateway that acts as a single gateway to the system. api gateway is responsible for request routing, composition and protocol translation. This service can provide each client with a custom API and hide problems with back-end services by returning cached or default data. Using the api gateway pattern has its own advantages and disadvantages, but it is still known as a solution to many problems.
 
