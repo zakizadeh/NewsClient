@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OfqeBvlJmiIFWbSgHNx7hIKRe5Dqzv1fl2KtQUKWSMRS+4feaRvEfucFJ8V9azXQxu1Q252TKUgAh5ZyW+7uKw==",
+  "success": true,
+  "projectFilePath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\NewsClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

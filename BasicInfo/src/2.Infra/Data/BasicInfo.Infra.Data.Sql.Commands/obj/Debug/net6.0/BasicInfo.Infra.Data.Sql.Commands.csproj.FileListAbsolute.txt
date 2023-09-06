@@ -1,0 +1,68 @@
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.deps.json
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.dll
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.pdb
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Core.Contracts.dll
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Core.Contracts.pdb
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.csproj.AssemblyReference.cache
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.AssemblyInfoInputs.cache
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.AssemblyInfo.cs
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.csproj.CoreCompileInputs.cache
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.csproj.CopyComplete
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.dll
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\refint\BasicInfo.Infra.Data.Sql.Commands.dll
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.pdb
+F:\Source\Nikamooz News\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\ref\BasicInfo.Infra.Data.Sql.Commands.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.deps.json
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.pdb
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Core.Contracts.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Core.Contracts.pdb
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.AssemblyInfo.cs
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.csproj.CopyComplete
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\refint\BasicInfo.Infra.Data.Sql.Commands.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.pdb
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\ref\BasicInfo.Infra.Data.Sql.Commands.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.deps.json
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.pdb
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Core.Contracts.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Core.Contracts.pdb
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.AssemblyInfo.cs
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.csproj.CopyComplete
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\refint\BasicInfo.Infra.Data.Sql.Commands.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.pdb
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\ref\BasicInfo.Infra.Data.Sql.Commands.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.deps.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Core.Contracts.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Core.Contracts.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.csproj.AssemblyReference.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.GeneratedMSBuildEditorConfig.editorconfig
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.AssemblyInfoInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.AssemblyInfo.cs
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.csproj.CoreCompileInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.csproj.CopyComplete
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\refint\BasicInfo.Infra.Data.Sql.Commands.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\BasicInfo.Infra.Data.Sql.Commands.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\2.Infra\Data\BasicInfo.Infra.Data.Sql.Commands\obj\Debug\net6.0\ref\BasicInfo.Infra.Data.Sql.Commands.dll

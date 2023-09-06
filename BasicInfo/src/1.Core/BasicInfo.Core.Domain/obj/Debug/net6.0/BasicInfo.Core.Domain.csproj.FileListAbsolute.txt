@@ -1,0 +1,48 @@
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Domain\bin\Debug\net6.0\BasicInfo.Core.Domain.deps.json
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Domain\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Domain\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.csproj.AssemblyReference.cache
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.AssemblyInfoInputs.cache
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.AssemblyInfo.cs
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.csproj.CoreCompileInputs.cache
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\refint\BasicInfo.Core.Domain.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.pdb
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\ref\BasicInfo.Core.Domain.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.Domain\bin\Debug\net6.0\BasicInfo.Core.Domain.deps.json
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.Domain\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.Domain\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.AssemblyInfo.cs
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\refint\BasicInfo.Core.Domain.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.pdb
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\ref\BasicInfo.Core.Domain.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.Domain\bin\Debug\net6.0\BasicInfo.Core.Domain.deps.json
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.Domain\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.Domain\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.AssemblyInfo.cs
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\refint\BasicInfo.Core.Domain.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.pdb
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\ref\BasicInfo.Core.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.Domain\bin\Debug\net6.0\BasicInfo.Core.Domain.deps.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.Domain\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.Domain\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.csproj.AssemblyReference.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.AssemblyInfoInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.AssemblyInfo.cs
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.csproj.CoreCompileInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\refint\BasicInfo.Core.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\BasicInfo.Core.Domain.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.Domain\obj\Debug\net6.0\ref\BasicInfo.Core.Domain.dll

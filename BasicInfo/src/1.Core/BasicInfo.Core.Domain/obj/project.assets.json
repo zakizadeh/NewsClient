@@ -1,0 +1,507 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Microsoft.CSharp/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/6.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "Zamin.Core.Domain/6.3.0-beta.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "compile": {
+          "lib/net6.0/Zamin.Core.Domain.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Zamin.Core.Domain.dll": {}
+        }
+      },
+      "Zamin.Core.Domain.Toolkits/6.3.0-beta.6": {
+        "type": "package",
+        "dependencies": {
+          "Zamin.Core.Domain": "6.3.0-beta.6",
+          "Zamin.Utilities": "6.3.0-beta.6"
+        },
+        "compile": {
+          "lib/net6.0/Zamin.Core.Domain.Toolkits.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Zamin.Core.Domain.Toolkits.dll": {}
+        }
+      },
+      "Zamin.Extensions.Caching.Abstractions/6.3.0-beta.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Zamin.Extensions.Caching.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Zamin.Extensions.Caching.Abstractions.dll": {}
+        }
+      },
+      "Zamin.Extensions.DependencyInjection.Abstractions/6.3.0-beta.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Zamin.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Zamin.Extensions.DependencyInjection.Abstractions.dll": {}
+        }
+      },
+      "Zamin.Extensions.Logger.Abstractions/6.3.0-beta.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Zamin.Extensions.Logger.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Zamin.Extensions.Logger.Abstractions.dll": {}
+        }
+      },
+      "Zamin.Extensions.ObjectMappers.Abstractions/6.3.0-beta.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Zamin.Extensions.ObjectMappers.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Zamin.Extensions.ObjectMappers.Abstractions.dll": {}
+        }
+      },
+      "Zamin.Extensions.Serializers.Abstractions/6.3.0-beta.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Zamin.Extensions.Serializers.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Zamin.Extensions.Serializers.Abstractions.dll": {}
+        }
+      },
+      "Zamin.Extensions.Translations.Abstractions/6.3.0-beta.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Zamin.Extensions.Translations.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Zamin.Extensions.Translations.Abstractions.dll": {}
+        }
+      },
+      "Zamin.Extensions.UsersManagement.Abstractions/6.3.0-beta.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Zamin.Extensions.UsersManagement.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Zamin.Extensions.UsersManagement.Abstractions.dll": {}
+        }
+      },
+      "Zamin.Utilities/6.3.0-beta.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.1",
+          "Zamin.Extensions.Caching.Abstractions": "6.3.0-beta.1",
+          "Zamin.Extensions.DependencyInjection.Abstractions": "6.3.0-beta.1",
+          "Zamin.Extensions.Logger.Abstractions": "6.3.0-beta.1",
+          "Zamin.Extensions.ObjectMappers.Abstractions": "6.3.0-beta.1",
+          "Zamin.Extensions.Serializers.Abstractions": "6.3.0-beta.1",
+          "Zamin.Extensions.Translations.Abstractions": "6.3.0-beta.3",
+          "Zamin.Extensions.UsersManagement.Abstractions": "6.3.0-beta.1"
+        },
+        "compile": {
+          "lib/net6.0/Zamin.Utilities.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Zamin.Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.CSharp/4.7.0": {
+      "sha512": "pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "type": "package",
+      "path": "microsoft.csharp/4.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/netcore50/Microsoft.CSharp.dll",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.3/Microsoft.CSharp.dll",
+        "lib/netstandard2.0/Microsoft.CSharp.dll",
+        "lib/netstandard2.0/Microsoft.CSharp.xml",
+        "lib/portable-net45+win8+wp8+wpa81/_._",
+        "lib/uap10.0.16299/_._",
+        "lib/win8/_._",
+        "lib/wp80/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "microsoft.csharp.4.7.0.nupkg.sha512",
+        "microsoft.csharp.nuspec",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/netcore50/Microsoft.CSharp.dll",
+        "ref/netcore50/Microsoft.CSharp.xml",
+        "ref/netcore50/de/Microsoft.CSharp.xml",
+        "ref/netcore50/es/Microsoft.CSharp.xml",
+        "ref/netcore50/fr/Microsoft.CSharp.xml",
+        "ref/netcore50/it/Microsoft.CSharp.xml",
+        "ref/netcore50/ja/Microsoft.CSharp.xml",
+        "ref/netcore50/ko/Microsoft.CSharp.xml",
+        "ref/netcore50/ru/Microsoft.CSharp.xml",
+        "ref/netcore50/zh-hans/Microsoft.CSharp.xml",
+        "ref/netcore50/zh-hant/Microsoft.CSharp.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.0/Microsoft.CSharp.dll",
+        "ref/netstandard1.0/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/de/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/es/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/fr/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/it/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/ja/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/ko/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/ru/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/zh-hans/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/zh-hant/Microsoft.CSharp.xml",
+        "ref/netstandard2.0/Microsoft.CSharp.dll",
+        "ref/netstandard2.0/Microsoft.CSharp.xml",
+        "ref/portable-net45+win8+wp8+wpa81/_._",
+        "ref/uap10.0.16299/_._",
+        "ref/win8/_._",
+        "ref/wp80/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+      "sha512": "xlzi2IYREJH3/m6+lUrQlujzX8wDitm4QGnUu6kUXTQAWPuZY8i+ticFJbzfqaetLA6KR/rO6Ew/HuYD+bxifg==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Logging.Abstractions/6.0.1": {
+      "sha512": "dzB2Cgg+JmrouhjkcQGzSFjjvpwlq353i8oBQO2GWNjCXSzhbtBRUf28HSauWe7eib3wYOdb3tItdjRwAdwCSg==",
+      "type": "package",
+      "path": "microsoft.extensions.logging.abstractions/6.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "analyzers/dotnet/roslyn3.11/cs/Microsoft.Extensions.Logging.Generators.dll",
+        "analyzers/dotnet/roslyn3.11/cs/cs/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/de/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/es/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/fr/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/it/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/ja/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/ko/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/pl/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/pt-BR/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/ru/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/tr/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/zh-Hans/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/zh-Hant/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/Microsoft.Extensions.Logging.Generators.dll",
+        "analyzers/dotnet/roslyn4.0/cs/cs/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/de/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/es/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/fr/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/it/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/ja/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/ko/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/pl/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/pt-BR/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/ru/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/tr/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/zh-Hans/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/zh-Hant/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "build/Microsoft.Extensions.Logging.Abstractions.targets",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.Logging.Abstractions.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/Microsoft.Extensions.Logging.Abstractions.dll",
+        "lib/net461/Microsoft.Extensions.Logging.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml",
+        "microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+        "microsoft.extensions.logging.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Zamin.Core.Domain/6.3.0-beta.6": {
+      "sha512": "401CDlRsOzCRW+3JPNSNsK609UDlvGqWVMPYEHVWZHC42chWUSMHAHrxOQoRCMMvz9jUuqR1R8QWDZvWjIO7aQ==",
+      "type": "package",
+      "path": "zamin.core.domain/6.3.0-beta.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/Zamin.Core.Domain.dll",
+        "zamin.core.domain.6.3.0-beta.6.nupkg.sha512",
+        "zamin.core.domain.nuspec"
+      ]
+    },
+    "Zamin.Core.Domain.Toolkits/6.3.0-beta.6": {
+      "sha512": "Nw0ghnBTU7t27MKi4yvA49AX+AcjG1Dl8gaaX8UBxB3gGrUwZVyfMO4lLWDiVFrz5nSpQSvfNJqHJEx9BK2wdg==",
+      "type": "package",
+      "path": "zamin.core.domain.toolkits/6.3.0-beta.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/Zamin.Core.Domain.Toolkits.dll",
+        "zamin.core.domain.toolkits.6.3.0-beta.6.nupkg.sha512",
+        "zamin.core.domain.toolkits.nuspec"
+      ]
+    },
+    "Zamin.Extensions.Caching.Abstractions/6.3.0-beta.1": {
+      "sha512": "yJoaC64gzCZ2nzeCK80g/x7v108aAmzjT/9rNmg6DwO6UFKFCZ8NXAi1XlexE/geoM7AzMN/tO++lpogKpP35g==",
+      "type": "package",
+      "path": "zamin.extensions.caching.abstractions/6.3.0-beta.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/Zamin.Extensions.Caching.Abstractions.dll",
+        "zamin.extensions.caching.abstractions.6.3.0-beta.1.nupkg.sha512",
+        "zamin.extensions.caching.abstractions.nuspec"
+      ]
+    },
+    "Zamin.Extensions.DependencyInjection.Abstractions/6.3.0-beta.1": {
+      "sha512": "UmwjLPQpXvZwkaWzQOoo5m2SfD9rj3+r7xVETQXmXm1AHSW2eoC3z3g+Ljav6bnNizII0KbBD9okxdcb1e9GsA==",
+      "type": "package",
+      "path": "zamin.extensions.dependencyinjection.abstractions/6.3.0-beta.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/Zamin.Extensions.DependencyInjection.Abstractions.dll",
+        "zamin.extensions.dependencyinjection.abstractions.6.3.0-beta.1.nupkg.sha512",
+        "zamin.extensions.dependencyinjection.abstractions.nuspec"
+      ]
+    },
+    "Zamin.Extensions.Logger.Abstractions/6.3.0-beta.1": {
+      "sha512": "PxV0s0m04SWZUXa/zx3uc4XoMxtPfUnHnytAAkKhsdb4JTY4crqGGadWFpzWjoHrft8XIULQLJkdUVinuj3PWA==",
+      "type": "package",
+      "path": "zamin.extensions.logger.abstractions/6.3.0-beta.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/Zamin.Extensions.Logger.Abstractions.dll",
+        "zamin.extensions.logger.abstractions.6.3.0-beta.1.nupkg.sha512",
+        "zamin.extensions.logger.abstractions.nuspec"
+      ]
+    },
+    "Zamin.Extensions.ObjectMappers.Abstractions/6.3.0-beta.1": {
+      "sha512": "AAyHFHS/aF0s1MTKBKkQrqGUR0yF3xf7SI3iZR91HhLByDW2PN2JmnAoudYbg/Cgapjl1QH9qeyS/mXlUgrfkA==",
+      "type": "package",
+      "path": "zamin.extensions.objectmappers.abstractions/6.3.0-beta.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/Zamin.Extensions.ObjectMappers.Abstractions.dll",
+        "zamin.extensions.objectmappers.abstractions.6.3.0-beta.1.nupkg.sha512",
+        "zamin.extensions.objectmappers.abstractions.nuspec"
+      ]
+    },
+    "Zamin.Extensions.Serializers.Abstractions/6.3.0-beta.1": {
+      "sha512": "bw6GRp2APH75/hqmp/QiArD35iOKkbumle3kNLXntxzBB9huO2E9I3Yfo11djdYPMUQxdZYq7/wo++BbvusPhA==",
+      "type": "package",
+      "path": "zamin.extensions.serializers.abstractions/6.3.0-beta.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/Zamin.Extensions.Serializers.Abstractions.dll",
+        "zamin.extensions.serializers.abstractions.6.3.0-beta.1.nupkg.sha512",
+        "zamin.extensions.serializers.abstractions.nuspec"
+      ]
+    },
+    "Zamin.Extensions.Translations.Abstractions/6.3.0-beta.3": {
+      "sha512": "/JMwrQmzCSY0S48+aOV25QUh82QddabeFKvau7qfOQGIzFgdVmbSmXr44YcElKd2yvbOoKTrc8r0H70KlYy44g==",
+      "type": "package",
+      "path": "zamin.extensions.translations.abstractions/6.3.0-beta.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/Zamin.Extensions.Translations.Abstractions.dll",
+        "zamin.extensions.translations.abstractions.6.3.0-beta.3.nupkg.sha512",
+        "zamin.extensions.translations.abstractions.nuspec"
+      ]
+    },
+    "Zamin.Extensions.UsersManagement.Abstractions/6.3.0-beta.1": {
+      "sha512": "ojQzkIjzxZHKx4+OoRdazCMKZjWbbUA0vKiinVZUZak796G7DSTt3SAttxgMYHpVN3aSq5ELqa6ebyr2aVfJkQ==",
+      "type": "package",
+      "path": "zamin.extensions.usersmanagement.abstractions/6.3.0-beta.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/Zamin.Extensions.UsersManagement.Abstractions.dll",
+        "zamin.extensions.usersmanagement.abstractions.6.3.0-beta.1.nupkg.sha512",
+        "zamin.extensions.usersmanagement.abstractions.nuspec"
+      ]
+    },
+    "Zamin.Utilities/6.3.0-beta.6": {
+      "sha512": "DLwdjhMPsOF9VkG3r3q/ldnOqvcPgv82A6DTMk67nJH4LDnIW23SntkgvGlLDeot/DGGs1sT0CVoigA7aAgxgQ==",
+      "type": "package",
+      "path": "zamin.utilities/6.3.0-beta.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/Zamin.Utilities.dll",
+        "zamin.utilities.6.3.0-beta.6.nupkg.sha512",
+        "zamin.utilities.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Zamin.Core.Domain >= 6.3.0-beta.6",
+      "Zamin.Core.Domain.Toolkits >= 6.3.0-beta.6"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\BasicInfo\\src\\1.Core\\BasicInfo.Core.Domain\\BasicInfo.Core.Domain.csproj",
+      "projectName": "BasicInfo.Core.Domain",
+      "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\BasicInfo\\src\\1.Core\\BasicInfo.Core.Domain\\BasicInfo.Core.Domain.csproj",
+      "packagesPath": "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\",
+      "outputPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\BasicInfo\\src\\1.Core\\BasicInfo.Core.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ho-zakizadeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Zamin.Core.Domain": {
+            "target": "Package",
+            "version": "[6.3.0-beta.6, )"
+          },
+          "Zamin.Core.Domain.Toolkits": {
+            "target": "Package",
+            "version": "[6.3.0-beta.6, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NewsClient.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NewsClient.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\js\\bundle.js",
+      "PackagePath": "staticwebassets\\js\\bundle.js"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\iransans\\dist\\css\\iransans\\iransans-fontface.css",
+      "PackagePath": "staticwebassets\\lib\\iransans\\dist\\css\\iransans\\iransans-fontface.css"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Bold.eot",
+      "PackagePath": "staticwebassets\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Bold.eot"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Medium.ttf",
+      "PackagePath": "staticwebassets\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Medium.ttf"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Regular.eot",
+      "PackagePath": "staticwebassets\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Regular.eot"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Regular.ttf"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_Regular.woff2"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_UltraLight.eot",
+      "PackagePath": "staticwebassets\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_UltraLight.eot"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_UltraLight.ttf"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\lib\\iransans\\dist\\fonts\\IRANSansWeb\\IRANSansWeb_UltraLight.woff2"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\materialdesignicons\\dist\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\lib\\materialdesignicons\\dist\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\materialdesignicons\\dist\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\materialdesignicons\\dist\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\materialdesignicons\\dist\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\materialdesignicons\\dist\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\materialdesignicons\\dist\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\materialdesignicons\\dist\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "E:\\zakizadeh pc\\edu\\c# cources 2023\\New folder\\NewCMSClient\\wwwroot\\lib\\materialdesignicons\\dist\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\materialdesignicons\\dist\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NewsClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.NewsClient.props",
+      "PackagePath": "build\\NewsClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NewsClient.props",
+      "PackagePath": "buildMultiTargeting\\NewsClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.NewsClient.props",
+      "PackagePath": "buildTransitive\\NewsClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

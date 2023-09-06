@@ -1,0 +1,34 @@
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\bin\Debug\net6.0\NewCms.Core.ApplicationService.deps.json
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\bin\Debug\net6.0\NewCms.Core.ApplicationService.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\bin\Debug\net6.0\NewCms.Core.ApplicationService.pdb
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\bin\Debug\net6.0\NewCms.Core.Contracts.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\bin\Debug\net6.0\NewCms.Core.Domain.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\bin\Debug\net6.0\NewCms.Core.Contracts.pdb
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\bin\Debug\net6.0\NewCms.Core.Domain.pdb
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\NewCms.Core.ApplicationService.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\NewCms.Core.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\NewCms.Core.ApplicationService.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\NewCms.Core.ApplicationService.AssemblyInfo.cs
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\NewCms.Core.ApplicationService.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\NewCms.Core.ApplicationService.csproj.CopyComplete
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\NewCms.Core.ApplicationService.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\refint\NewCms.Core.ApplicationService.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\NewCms.Core.ApplicationService.pdb
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\ref\NewCms.Core.ApplicationService.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\bin\Debug\net6.0\NewCms.Core.ApplicationService.deps.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\bin\Debug\net6.0\NewCms.Core.ApplicationService.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\bin\Debug\net6.0\NewCms.Core.ApplicationService.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\bin\Debug\net6.0\NewCms.Core.Contracts.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\bin\Debug\net6.0\NewCms.Core.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\bin\Debug\net6.0\NewCms.Core.Contracts.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\bin\Debug\net6.0\NewCms.Core.Domain.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\NewCms.Core.ApplicationService.csproj.AssemblyReference.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\NewCms.Core.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\NewCms.Core.ApplicationService.AssemblyInfoInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\NewCms.Core.ApplicationService.AssemblyInfo.cs
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\NewCms.Core.ApplicationService.csproj.CoreCompileInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\NewCms.Core.ApplicationService.csproj.CopyComplete
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\NewCms.Core.ApplicationService.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\refint\NewCms.Core.ApplicationService.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\NewCms.Core.ApplicationService.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\1.Core\NewCms.Core.ApplicationService\obj\Debug\net6.0\ref\NewCms.Core.ApplicationService.dll

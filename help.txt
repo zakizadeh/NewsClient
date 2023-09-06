@@ -1,0 +1,9 @@
+install Eureka 
+
+run NewCms.Endpoints.API
+run BasicInfo.Endpoints.API
+ to create eureka services . 
+
+then : 
+run NewCMSClient
+and go to  localhost/news/index

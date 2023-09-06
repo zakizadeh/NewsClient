@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SseBtyoJGcRjakiqGvG80DYYQo8qeNAed5/MtDVmC80=",
+  "Source": "BasicInfo.Endpoints.API",
+  "BasePath": "_content/BasicInfo.Endpoints.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

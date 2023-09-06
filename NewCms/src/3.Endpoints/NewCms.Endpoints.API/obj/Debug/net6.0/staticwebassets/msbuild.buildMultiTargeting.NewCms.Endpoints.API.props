@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NewCms.Endpoints.API.props" />
+</Project>

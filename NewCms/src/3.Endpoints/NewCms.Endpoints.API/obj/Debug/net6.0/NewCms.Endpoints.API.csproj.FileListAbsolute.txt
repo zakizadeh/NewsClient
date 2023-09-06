@@ -1,0 +1,929 @@
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.AssemblyInfo.cs
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.MvcApplicationPartsAssemblyInfo.cs
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.MvcApplicationPartsAssemblyInfo.cache
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\appsettings.json
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\appsettings.serilog.json
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\appsettings.zamin.json
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Endpoints.API.exe
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Endpoints.API.deps.json
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Endpoints.API.runtimeconfig.json
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Endpoints.API.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Endpoints.API.pdb
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\mscorlib.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\netstandard.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.AppContext.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Buffers.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Collections.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ComponentModel.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Configuration.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Console.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Core.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Data.Common.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Data.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Drawing.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Globalization.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.Compression.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Linq.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Memory.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.Http.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.Mail.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.Ping.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.Requests.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.Security.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Numerics.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ObjectModel.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Claims.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Principal.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Text.Json.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Transactions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ValueTuple.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Web.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Windows.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\WindowsBase.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\AutoMapper.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Dapper.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Elasticsearch.Net.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\FluentValidation.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.SqlServer.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Scrutor.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Formatting.Elasticsearch.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Sinks.Elasticsearch.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\StackExchange.Redis.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Core.ApplicationServices.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Core.Contracts.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Core.Domain.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Core.Domain.Toolkits.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.EndPoints.Web.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.Caching.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.Caching.InMemory.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.DependencyInjection.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.Logger.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.ObjectMappers.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.ObjectMappers.AutoMapper.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.Serializers.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.Serializers.Microsoft.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.Translations.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.Translations.Parrot.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.UsersManagement.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.UsersManagement.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Infra.Data.Sql.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Infra.Data.Sql.Commands.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Infra.Data.Sql.Queries.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Utilities.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Core.ApplicationService.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Core.Contracts.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Core.Domain.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Infra.Data.Sql.Commands.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Infra.Data.Sql.Queries.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Core.ApplicationService.pdb
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Core.Contracts.pdb
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Core.Domain.pdb
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Infra.Data.Sql.Commands.pdb
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Infra.Data.Sql.Queries.pdb
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\staticwebassets.build.json
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\staticwebassets.development.json
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\scopedcss\bundle\NewCms.Endpoints.API.styles.css
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.csproj.CopyComplete
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\refint\NewCms.Endpoints.API.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.pdb
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.genruntimeconfig.cache
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\ref\NewCms.Endpoints.API.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Humanizer.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Common.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Common.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Common.Http.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Connector.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Connector.ConnectorBase.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Discovery.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Discovery.ClientBase.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Discovery.Eureka.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\appsettings.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\appsettings.serilog.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\appsettings.zamin.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Endpoints.API.exe
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Endpoints.API.deps.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Endpoints.API.runtimeconfig.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Endpoints.API.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Endpoints.API.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\mscorlib.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\netstandard.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Collections.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Console.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Core.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Data.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Linq.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Memory.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Text.Json.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Web.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Windows.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\refs\WindowsBase.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\AutoMapper.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Dapper.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Elasticsearch.Net.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\FluentValidation.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Humanizer.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.SqlServer.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Scrutor.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Formatting.Elasticsearch.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Sinks.Elasticsearch.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Common.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Common.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Common.Http.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Connector.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Connector.ConnectorBase.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Discovery.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Discovery.ClientBase.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Discovery.Eureka.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Core.ApplicationServices.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Core.Contracts.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Core.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Core.Domain.Toolkits.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.EndPoints.Web.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.Caching.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.Caching.InMemory.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.DependencyInjection.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.Logger.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.ObjectMappers.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.ObjectMappers.AutoMapper.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.Serializers.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.Serializers.Microsoft.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.Translations.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.Translations.Parrot.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.UsersManagement.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Extensions.UsersManagement.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Infra.Data.Sql.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Infra.Data.Sql.Commands.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Infra.Data.Sql.Queries.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\Zamin.Utilities.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Core.ApplicationService.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Core.Contracts.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Core.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Infra.Data.Sql.Commands.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Infra.Data.Sql.Queries.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Core.ApplicationService.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Core.Contracts.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Core.Domain.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Infra.Data.Sql.Commands.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\bin\Debug\net6.0\NewCms.Infra.Data.Sql.Queries.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.csproj.AssemblyReference.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.AssemblyInfoInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.AssemblyInfo.cs
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.csproj.CoreCompileInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.MvcApplicationPartsAssemblyInfo.cs
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.MvcApplicationPartsAssemblyInfo.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\staticwebassets\msbuild.NewCms.Endpoints.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\staticwebassets\msbuild.build.NewCms.Endpoints.API.props
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NewCms.Endpoints.API.props
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NewCms.Endpoints.API.props
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\scopedcss\bundle\NewCms.Endpoints.API.styles.css
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.csproj.CopyComplete
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\refint\NewCms.Endpoints.API.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\NewCms.Endpoints.API.genruntimeconfig.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\NewCms\src\3.Endpoints\NewCms.Endpoints.API\obj\Debug\net6.0\ref\NewCms.Endpoints.API.dll

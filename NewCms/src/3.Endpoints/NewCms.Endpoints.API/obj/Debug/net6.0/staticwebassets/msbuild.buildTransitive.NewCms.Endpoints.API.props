@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NewCms.Endpoints.API.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2OZH0ujzqYiAWCpNhcAbO/i+5dr1174p0EFVs/VgaEI=",
+  "Source": "NcmsApiGateway",
+  "BasePath": "_content/NcmsApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

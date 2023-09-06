@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ic+KqIYrSspAyGgw32BTYh3h6PHbRHK7qg14wdoOKp/eXmCOrF20V3Tn3rDI/9BqzjjX+8YLFzZIcVDN3y0MfQ==",
+  "success": true,
+  "projectFilePath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCMSClient\\NewCMSClient\\NewCMSClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

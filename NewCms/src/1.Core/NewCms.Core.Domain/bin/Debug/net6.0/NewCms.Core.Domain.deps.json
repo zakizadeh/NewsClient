@@ -1,0 +1,233 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NewCms.Core.Domain/1.0.0": {
+        "dependencies": {
+          "Zamin.Core.Domain": "6.3.0-beta.8",
+          "Zamin.Core.Domain.Toolkits": "6.3.0-beta.8"
+        },
+        "runtime": {
+          "NewCms.Core.Domain.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/6.0.1": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.322.12309"
+          }
+        }
+      },
+      "Zamin.Core.Domain/6.3.0-beta.8": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "lib/net6.0/Zamin.Core.Domain.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      },
+      "Zamin.Core.Domain.Toolkits/6.3.0-beta.8": {
+        "dependencies": {
+          "Zamin.Core.Domain": "6.3.0-beta.8",
+          "Zamin.Utilities": "6.3.0-beta.8"
+        },
+        "runtime": {
+          "lib/net6.0/Zamin.Core.Domain.Toolkits.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      },
+      "Zamin.Extensions.Caching.Abstractions/6.3.0-beta.1": {
+        "runtime": {
+          "lib/net6.0/Zamin.Extensions.Caching.Abstractions.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      },
+      "Zamin.Extensions.DependencyInjection.Abstractions/6.3.0-beta.1": {
+        "runtime": {
+          "lib/net6.0/Zamin.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      },
+      "Zamin.Extensions.Logger.Abstractions/6.3.0-beta.1": {
+        "runtime": {
+          "lib/net6.0/Zamin.Extensions.Logger.Abstractions.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      },
+      "Zamin.Extensions.ObjectMappers.Abstractions/6.3.0-beta.1": {
+        "runtime": {
+          "lib/net6.0/Zamin.Extensions.ObjectMappers.Abstractions.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      },
+      "Zamin.Extensions.Serializers.Abstractions/6.3.0-beta.1": {
+        "runtime": {
+          "lib/net6.0/Zamin.Extensions.Serializers.Abstractions.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      },
+      "Zamin.Extensions.Translations.Abstractions/6.3.0-beta.3": {
+        "runtime": {
+          "lib/net6.0/Zamin.Extensions.Translations.Abstractions.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      },
+      "Zamin.Extensions.UsersManagement.Abstractions/6.3.0-beta.3": {
+        "runtime": {
+          "lib/net6.0/Zamin.Extensions.UsersManagement.Abstractions.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      },
+      "Zamin.Utilities/6.3.0-beta.8": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.1",
+          "Zamin.Extensions.Caching.Abstractions": "6.3.0-beta.1",
+          "Zamin.Extensions.DependencyInjection.Abstractions": "6.3.0-beta.1",
+          "Zamin.Extensions.Logger.Abstractions": "6.3.0-beta.1",
+          "Zamin.Extensions.ObjectMappers.Abstractions": "6.3.0-beta.1",
+          "Zamin.Extensions.Serializers.Abstractions": "6.3.0-beta.1",
+          "Zamin.Extensions.Translations.Abstractions": "6.3.0-beta.3",
+          "Zamin.Extensions.UsersManagement.Abstractions": "6.3.0-beta.3"
+        },
+        "runtime": {
+          "lib/net6.0/Zamin.Utilities.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewCms.Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xlzi2IYREJH3/m6+lUrQlujzX8wDitm4QGnUu6kUXTQAWPuZY8i+ticFJbzfqaetLA6KR/rO6Ew/HuYD+bxifg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/6.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dzB2Cgg+JmrouhjkcQGzSFjjvpwlq353i8oBQO2GWNjCXSzhbtBRUf28HSauWe7eib3wYOdb3tItdjRwAdwCSg==",
+      "path": "microsoft.extensions.logging.abstractions/6.0.1",
+      "hashPath": "microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512"
+    },
+    "Zamin.Core.Domain/6.3.0-beta.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rgXxpGJZw6Kz7OBV50NiBy1m41diqFsDkt0z/Q63+xMw/F+WW9twDnjv+tchRvLkjagFUWXVDNQ3M0cvfFzAYw==",
+      "path": "zamin.core.domain/6.3.0-beta.8",
+      "hashPath": "zamin.core.domain.6.3.0-beta.8.nupkg.sha512"
+    },
+    "Zamin.Core.Domain.Toolkits/6.3.0-beta.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bnbeDLfeGTIlsxbWbi+4fdGPEAJG/+ZsKz3YQNGjZOAEmw4dkwpc8hJ9qn2K5MKTQIINo+QV3/QEVC4tdUEWJQ==",
+      "path": "zamin.core.domain.toolkits/6.3.0-beta.8",
+      "hashPath": "zamin.core.domain.toolkits.6.3.0-beta.8.nupkg.sha512"
+    },
+    "Zamin.Extensions.Caching.Abstractions/6.3.0-beta.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yJoaC64gzCZ2nzeCK80g/x7v108aAmzjT/9rNmg6DwO6UFKFCZ8NXAi1XlexE/geoM7AzMN/tO++lpogKpP35g==",
+      "path": "zamin.extensions.caching.abstractions/6.3.0-beta.1",
+      "hashPath": "zamin.extensions.caching.abstractions.6.3.0-beta.1.nupkg.sha512"
+    },
+    "Zamin.Extensions.DependencyInjection.Abstractions/6.3.0-beta.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UmwjLPQpXvZwkaWzQOoo5m2SfD9rj3+r7xVETQXmXm1AHSW2eoC3z3g+Ljav6bnNizII0KbBD9okxdcb1e9GsA==",
+      "path": "zamin.extensions.dependencyinjection.abstractions/6.3.0-beta.1",
+      "hashPath": "zamin.extensions.dependencyinjection.abstractions.6.3.0-beta.1.nupkg.sha512"
+    },
+    "Zamin.Extensions.Logger.Abstractions/6.3.0-beta.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PxV0s0m04SWZUXa/zx3uc4XoMxtPfUnHnytAAkKhsdb4JTY4crqGGadWFpzWjoHrft8XIULQLJkdUVinuj3PWA==",
+      "path": "zamin.extensions.logger.abstractions/6.3.0-beta.1",
+      "hashPath": "zamin.extensions.logger.abstractions.6.3.0-beta.1.nupkg.sha512"
+    },
+    "Zamin.Extensions.ObjectMappers.Abstractions/6.3.0-beta.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AAyHFHS/aF0s1MTKBKkQrqGUR0yF3xf7SI3iZR91HhLByDW2PN2JmnAoudYbg/Cgapjl1QH9qeyS/mXlUgrfkA==",
+      "path": "zamin.extensions.objectmappers.abstractions/6.3.0-beta.1",
+      "hashPath": "zamin.extensions.objectmappers.abstractions.6.3.0-beta.1.nupkg.sha512"
+    },
+    "Zamin.Extensions.Serializers.Abstractions/6.3.0-beta.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bw6GRp2APH75/hqmp/QiArD35iOKkbumle3kNLXntxzBB9huO2E9I3Yfo11djdYPMUQxdZYq7/wo++BbvusPhA==",
+      "path": "zamin.extensions.serializers.abstractions/6.3.0-beta.1",
+      "hashPath": "zamin.extensions.serializers.abstractions.6.3.0-beta.1.nupkg.sha512"
+    },
+    "Zamin.Extensions.Translations.Abstractions/6.3.0-beta.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/JMwrQmzCSY0S48+aOV25QUh82QddabeFKvau7qfOQGIzFgdVmbSmXr44YcElKd2yvbOoKTrc8r0H70KlYy44g==",
+      "path": "zamin.extensions.translations.abstractions/6.3.0-beta.3",
+      "hashPath": "zamin.extensions.translations.abstractions.6.3.0-beta.3.nupkg.sha512"
+    },
+    "Zamin.Extensions.UsersManagement.Abstractions/6.3.0-beta.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Yy7lhJPbXrXlV6stvqh8eWbzcqq/NolOcBokzUdSFlYRVgq05OgYnAaAXCmkqxXSc+wPuQ8V/HaW9L33Kwg2+w==",
+      "path": "zamin.extensions.usersmanagement.abstractions/6.3.0-beta.3",
+      "hashPath": "zamin.extensions.usersmanagement.abstractions.6.3.0-beta.3.nupkg.sha512"
+    },
+    "Zamin.Utilities/6.3.0-beta.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kHmWtmeCqm/R8bALDXsQLQ4F/Mysb7HEEh9gVpTZQlwTmCNpR5lygopUKhJBtDkYZ/xdNuPNCockLpYi53jmFQ==",
+      "path": "zamin.utilities/6.3.0-beta.8",
+      "hashPath": "zamin.utilities.6.3.0-beta.8.nupkg.sha512"
+    }
+  }
+}

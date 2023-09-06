@@ -1,0 +1,68 @@
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.ApplicationService.deps.json
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.ApplicationService.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.ApplicationService.pdb
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Contracts.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Contracts.pdb
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.csproj.AssemblyReference.cache
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.AssemblyInfoInputs.cache
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.AssemblyInfo.cs
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.csproj.CoreCompileInputs.cache
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.csproj.CopyComplete
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\refint\BasicInfo.Core.ApplicationService.dll
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.pdb
+F:\Source\Nikamooz News\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\ref\BasicInfo.Core.ApplicationService.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.ApplicationService.deps.json
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.ApplicationService.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.ApplicationService.pdb
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Contracts.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Contracts.pdb
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.AssemblyInfo.cs
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.csproj.CopyComplete
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\refint\BasicInfo.Core.ApplicationService.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.pdb
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\ref\BasicInfo.Core.ApplicationService.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.ApplicationService.deps.json
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.ApplicationService.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.ApplicationService.pdb
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Contracts.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Contracts.pdb
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.AssemblyInfo.cs
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.csproj.CopyComplete
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\refint\BasicInfo.Core.ApplicationService.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.pdb
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\ref\BasicInfo.Core.ApplicationService.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.ApplicationService.deps.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.ApplicationService.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.ApplicationService.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Contracts.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Contracts.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.csproj.AssemblyReference.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.AssemblyInfoInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.AssemblyInfo.cs
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.csproj.CoreCompileInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.csproj.CopyComplete
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\refint\BasicInfo.Core.ApplicationService.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\BasicInfo.Core.ApplicationService.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\src\1.Core\BasicInfo.Core.ApplicationService\obj\Debug\net6.0\ref\BasicInfo.Core.ApplicationService.dll

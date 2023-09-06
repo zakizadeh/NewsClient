@@ -1,0 +1,496 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\3.Endpoints\\NewCms.Endpoints.API\\NewCms.Endpoints.API.csproj": {}
+  },
+  "projects": {
+    "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.ApplicationService\\NewCms.Core.ApplicationService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.ApplicationService\\NewCms.Core.ApplicationService.csproj",
+        "projectName": "NewCms.Core.ApplicationService",
+        "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.ApplicationService\\NewCms.Core.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\",
+        "outputPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.ApplicationService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ho-zakizadeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Contracts\\NewCms.Core.Contracts.csproj": {
+                "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Contracts\\NewCms.Core.Contracts.csproj"
+              },
+              "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Domain\\NewCms.Core.Domain.csproj": {
+                "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Domain\\NewCms.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Zamin.Core.ApplicationServices": {
+              "target": "Package",
+              "version": "[6.3.0-beta.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Contracts\\NewCms.Core.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Contracts\\NewCms.Core.Contracts.csproj",
+        "projectName": "NewCms.Core.Contracts",
+        "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Contracts\\NewCms.Core.Contracts.csproj",
+        "packagesPath": "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\",
+        "outputPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ho-zakizadeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Domain\\NewCms.Core.Domain.csproj": {
+                "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Domain\\NewCms.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Zamin.Core.Contracts": {
+              "target": "Package",
+              "version": "[6.3.0-beta.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Domain\\NewCms.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Domain\\NewCms.Core.Domain.csproj",
+        "projectName": "NewCms.Core.Domain",
+        "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Domain\\NewCms.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\",
+        "outputPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ho-zakizadeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Zamin.Core.Domain": {
+              "target": "Package",
+              "version": "[6.3.0-beta.8, )"
+            },
+            "Zamin.Core.Domain.Toolkits": {
+              "target": "Package",
+              "version": "[6.3.0-beta.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\2.Infra\\Data\\NewCms.Infra.Data.Sql.Commands\\NewCms.Infra.Data.Sql.Commands.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\2.Infra\\Data\\NewCms.Infra.Data.Sql.Commands\\NewCms.Infra.Data.Sql.Commands.csproj",
+        "projectName": "NewCms.Infra.Data.Sql.Commands",
+        "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\2.Infra\\Data\\NewCms.Infra.Data.Sql.Commands\\NewCms.Infra.Data.Sql.Commands.csproj",
+        "packagesPath": "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\",
+        "outputPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\2.Infra\\Data\\NewCms.Infra.Data.Sql.Commands\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ho-zakizadeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Contracts\\NewCms.Core.Contracts.csproj": {
+                "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Contracts\\NewCms.Core.Contracts.csproj"
+              },
+              "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Domain\\NewCms.Core.Domain.csproj": {
+                "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Domain\\NewCms.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Zamin.Infra.Data.Sql.Commands": {
+              "target": "Package",
+              "version": "[6.3.0-beta.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\2.Infra\\Data\\NewCms.Infra.Data.Sql.Queries\\NewCms.Infra.Data.Sql.Queries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\2.Infra\\Data\\NewCms.Infra.Data.Sql.Queries\\NewCms.Infra.Data.Sql.Queries.csproj",
+        "projectName": "NewCms.Infra.Data.Sql.Queries",
+        "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\2.Infra\\Data\\NewCms.Infra.Data.Sql.Queries\\NewCms.Infra.Data.Sql.Queries.csproj",
+        "packagesPath": "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\",
+        "outputPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\2.Infra\\Data\\NewCms.Infra.Data.Sql.Queries\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ho-zakizadeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Contracts\\NewCms.Core.Contracts.csproj": {
+                "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Contracts\\NewCms.Core.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Zamin.Infra.Data.Sql.Queries": {
+              "target": "Package",
+              "version": "[6.3.0-beta.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\3.Endpoints\\NewCms.Endpoints.API\\NewCms.Endpoints.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\3.Endpoints\\NewCms.Endpoints.API\\NewCms.Endpoints.API.csproj",
+        "projectName": "NewCms.Endpoints.API",
+        "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\3.Endpoints\\NewCms.Endpoints.API\\NewCms.Endpoints.API.csproj",
+        "packagesPath": "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\",
+        "outputPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\3.Endpoints\\NewCms.Endpoints.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ho-zakizadeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.ApplicationService\\NewCms.Core.ApplicationService.csproj": {
+                "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.ApplicationService\\NewCms.Core.ApplicationService.csproj"
+              },
+              "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Contracts\\NewCms.Core.Contracts.csproj": {
+                "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Contracts\\NewCms.Core.Contracts.csproj"
+              },
+              "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Domain\\NewCms.Core.Domain.csproj": {
+                "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\1.Core\\NewCms.Core.Domain\\NewCms.Core.Domain.csproj"
+              },
+              "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\2.Infra\\Data\\NewCms.Infra.Data.Sql.Commands\\NewCms.Infra.Data.Sql.Commands.csproj": {
+                "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\2.Infra\\Data\\NewCms.Infra.Data.Sql.Commands\\NewCms.Infra.Data.Sql.Commands.csproj"
+              },
+              "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\2.Infra\\Data\\NewCms.Infra.Data.Sql.Queries\\NewCms.Infra.Data.Sql.Queries.csproj": {
+                "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\NewCms\\src\\2.Infra\\Data\\NewCms.Infra.Data.Sql.Queries\\NewCms.Infra.Data.Sql.Queries.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Steeltoe.Discovery.Eureka": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Zamin.EndPoints.Web": {
+              "target": "Package",
+              "version": "[6.3.0-beta.8, )"
+            },
+            "Zamin.Extensions.Caching.InMemory": {
+              "target": "Package",
+              "version": "[6.3.0-beta.2, )"
+            },
+            "Zamin.Extensions.ObjectMappers.AutoMapper": {
+              "target": "Package",
+              "version": "[6.3.0-beta.2, )"
+            },
+            "Zamin.Extensions.Serializers.Microsoft": {
+              "target": "Package",
+              "version": "[6.3.0-beta.3, )"
+            },
+            "Zamin.Extensions.Translations.Parrot": {
+              "target": "Package",
+              "version": "[6.3.0-beta.5, )"
+            },
+            "Zamin.Extensions.UsersManagement": {
+              "target": "Package",
+              "version": "[6.3.0-beta.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

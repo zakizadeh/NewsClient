@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\BasicInfo\\src\\1.Core\\BasicInfo.Core.Contracts\\BasicInfo.Core.Contracts.csproj": {}
+  },
+  "projects": {
+    "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\BasicInfo\\src\\1.Core\\BasicInfo.Core.Contracts\\BasicInfo.Core.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\BasicInfo\\src\\1.Core\\BasicInfo.Core.Contracts\\BasicInfo.Core.Contracts.csproj",
+        "projectName": "BasicInfo.Core.Contracts",
+        "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\BasicInfo\\src\\1.Core\\BasicInfo.Core.Contracts\\BasicInfo.Core.Contracts.csproj",
+        "packagesPath": "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\",
+        "outputPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\BasicInfo\\src\\1.Core\\BasicInfo.Core.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ho-zakizadeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\BasicInfo\\src\\1.Core\\BasicInfo.Core.Domain\\BasicInfo.Core.Domain.csproj": {
+                "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\BasicInfo\\src\\1.Core\\BasicInfo.Core.Domain\\BasicInfo.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Zamin.Core.Contracts": {
+              "target": "Package",
+              "version": "[6.3.0-beta.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\BasicInfo\\src\\1.Core\\BasicInfo.Core.Domain\\BasicInfo.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\BasicInfo\\src\\1.Core\\BasicInfo.Core.Domain\\BasicInfo.Core.Domain.csproj",
+        "projectName": "BasicInfo.Core.Domain",
+        "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\BasicInfo\\src\\1.Core\\BasicInfo.Core.Domain\\BasicInfo.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\",
+        "outputPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\BasicInfo\\src\\1.Core\\BasicInfo.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ho-zakizadeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Zamin.Core.Domain": {
+              "target": "Package",
+              "version": "[6.3.0-beta.6, )"
+            },
+            "Zamin.Core.Domain.Toolkits": {
+              "target": "Package",
+              "version": "[6.3.0-beta.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

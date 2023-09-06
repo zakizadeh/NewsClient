@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "DKOkqEYc4FxK5Toptk6ll8AO+jCDzqEJOMtZxOklvVqjmymPK//iqGf5FalqWgCGSRd5HTJEZbpSoesewD8Hew==",
+  "success": true,
+  "projectFilePath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\microservice2\\29\\Sample\\BasicInfo\\src\\1.Core\\BasicInfo.Core.Domain\\BasicInfo.Core.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\zamin.core.domain\\6.3.0-beta.6\\zamin.core.domain.6.3.0-beta.6.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\zamin.core.domain.toolkits\\6.3.0-beta.6\\zamin.core.domain.toolkits.6.3.0-beta.6.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\zamin.extensions.caching.abstractions\\6.3.0-beta.1\\zamin.extensions.caching.abstractions.6.3.0-beta.1.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\zamin.extensions.dependencyinjection.abstractions\\6.3.0-beta.1\\zamin.extensions.dependencyinjection.abstractions.6.3.0-beta.1.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\zamin.extensions.logger.abstractions\\6.3.0-beta.1\\zamin.extensions.logger.abstractions.6.3.0-beta.1.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\zamin.extensions.objectmappers.abstractions\\6.3.0-beta.1\\zamin.extensions.objectmappers.abstractions.6.3.0-beta.1.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\zamin.extensions.serializers.abstractions\\6.3.0-beta.1\\zamin.extensions.serializers.abstractions.6.3.0-beta.1.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\zamin.extensions.translations.abstractions\\6.3.0-beta.3\\zamin.extensions.translations.abstractions.6.3.0-beta.3.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\zamin.extensions.usersmanagement.abstractions\\6.3.0-beta.1\\zamin.extensions.usersmanagement.abstractions.6.3.0-beta.1.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\zamin.utilities\\6.3.0-beta.6\\zamin.utilities.6.3.0-beta.6.nupkg.sha512"
+  ],
+  "logs": []
+}

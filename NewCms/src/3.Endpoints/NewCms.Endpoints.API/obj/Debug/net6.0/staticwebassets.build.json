@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BldatxgiZNRZI8UVwr8cfh3StXvHU65tpVUcUBhtZ8w=",
+  "Source": "NewCms.Endpoints.API",
+  "BasePath": "_content/NewCms.Endpoints.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

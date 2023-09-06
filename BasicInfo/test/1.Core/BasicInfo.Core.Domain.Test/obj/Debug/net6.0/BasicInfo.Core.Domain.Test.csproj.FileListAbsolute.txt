@@ -1,0 +1,342 @@
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\testhost.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\testhost.exe
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.Test.deps.json
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.Test.runtimeconfig.json
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.Test.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.Test.pdb
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.abstractions.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.assert.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.core.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Core.Domain.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Core.Domain.Toolkits.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.Caching.Abstractions.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.DependencyInjection.Abstractions.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.Logger.Abstractions.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.ObjectMappers.Abstractions.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.Serializers.Abstractions.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.Translations.Abstractions.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.UsersManagement.Abstractions.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Utilities.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.AssemblyInfo.cs
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.csproj.CopyComplete
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\refint\BasicInfo.Core.Domain.Test.dll
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.pdb
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.genruntimeconfig.cache
+F:\Source\ProMicroservice\25. Workshop - 02\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\ref\BasicInfo.Core.Domain.Test.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\testhost.exe
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\testhost.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.Test.deps.json
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.Test.runtimeconfig.json
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.Test.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.Test.pdb
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.assert.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.core.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Core.Domain.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Core.Domain.Toolkits.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.Caching.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.DependencyInjection.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.Logger.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.ObjectMappers.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.Serializers.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.Translations.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.UsersManagement.Abstractions.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Utilities.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.AssemblyInfo.cs
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.csproj.CopyComplete
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\refint\BasicInfo.Core.Domain.Test.dll
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.pdb
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.genruntimeconfig.cache
+F:\Source\ProMicroservice\29. API Gateway\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\ref\BasicInfo.Core.Domain.Test.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\testhost.exe
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\testhost.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.Test.deps.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.Test.runtimeconfig.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.Test.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.Test.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.assert.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.core.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Core.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Core.Domain.Toolkits.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.Caching.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.DependencyInjection.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.Logger.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.ObjectMappers.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.Serializers.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.Translations.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Extensions.UsersManagement.Abstractions.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\Zamin.Utilities.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\bin\Debug\net6.0\BasicInfo.Core.Domain.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.csproj.AssemblyReference.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.AssemblyInfoInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.AssemblyInfo.cs
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.csproj.CoreCompileInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.csproj.CopyComplete
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\refint\BasicInfo.Core.Domain.Test.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\BasicInfo.Core.Domain.Test.genruntimeconfig.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\29\Sample\BasicInfo\test\1.Core\BasicInfo.Core.Domain.Test\obj\Debug\net6.0\ref\BasicInfo.Core.Domain.Test.dll
