@@ -94,10 +94,19 @@ NewsClient project covers API discovery with eureka
 to run project : 
 1- install Eureka 
 
+![5](https://github.com/zakizadeh/NewsClient/assets/11499371/b869c2a8-53a3-41d8-9ca8-2f649dbec13d)
+
 2- run NewCms.Endpoints.API
 3- run BasicInfo.Endpoints.API
  to create eureka services . 
+ 
+![1](https://github.com/zakizadeh/NewsClient/assets/11499371/1083bec4-5171-4ca1-b8a4-6b11bcc54aae)
 
 then : 
 4- run NewCMSClient
 and go to  localhost/news/index
+
+![2](https://github.com/zakizadeh/NewsClient/assets/11499371/8134b811-3cce-4f28-939f-f3f12ffb3bb6)
+
+![4](https://github.com/zakizadeh/NewsClient/assets/11499371/d93a83df-878d-4e32-a803-cb0be5f488b9)
+
