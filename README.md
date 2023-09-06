@@ -1,5 +1,9 @@
 # NewsClient
 
+
+![gateway-1024x576](https://github.com/zakizadeh/NewsClient/assets/11499371/a7da9e4d-b38d-4a10-8160-8cf401c36ffd)
+
+
 What is the API Gateway pattern?
 
 API, which stands for Application Program Interface, is actually a set of instructions, protocols and tools for building software that will determine how software components interact. API Gateway is a server that acts as a single point of entry. API Gateway can influence the internal architecture of the system and provide an API for each client.
