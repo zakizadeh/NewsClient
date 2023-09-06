@@ -1,5 +1,5 @@
 
-![gateway-1024x576](https://github.com/zakizadeh/NewsClient/assets/11499371/a7da9e4d-b38d-4a10-8160-8cf401c36ffd)
+![gateway-1024x576](https://github.com/zakizadeh/NewsClient/assets/11499371/3be4df67-6439-4772-9686-7a33c2873856)
 
 
 # What is the API Gateway pattern?
